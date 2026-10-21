@@ -1,1 +1,1 @@
-# Develop-of-software-modules
+РАЗРАБОТКА ПРОГРАМНЫХ МОДУЛЕЙ
